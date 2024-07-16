@@ -54,6 +54,7 @@
     <Compile Include="MainFile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="DoWhilePractises.cs" />
+    <Compile Include="TryPush.cs" />
     <Compile Include="WhilePractises.cs" />
   </ItemGroup>
   <ItemGroup>
