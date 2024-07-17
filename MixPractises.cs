@@ -47,7 +47,7 @@ namespace Practises
             string overUnder= (userAge > 18) ? "+" : "-";
             Console.WriteLine(overUnder);
         }
-        public void repeatinText()
+        public void RepeatingText()
         {
             //6.Task > 10 times repeating text
             for (int i = 0; i < 10; i++) {
@@ -98,7 +98,7 @@ namespace Practises
             Console.WriteLine("Your highest number in your inputs :{0}",highestNumber);
             return highestNumber;
         }
-        public void swapTexts(string userText1, string userText2)
+        public void SwapTexts(string userText1, string userText2)
         {
             //13.Task > Take 2 texts from user and change position with method
             Console.WriteLine($"Your texts before process: {userText1} {userText2}");
@@ -147,7 +147,7 @@ namespace Practises
             Console.WriteLine("With Upper Case: "+text.ToUpper());
             Console.WriteLine("With Lower Case: " + text.ToLower());
         }
-        public string trimText(string sampleText= "    Selamlar   ")
+        public string TrimText(string sampleText= "    Selamlar   ")
         {
             //18.Task > Deleting spaces start and end
             return sampleText.Trim();
