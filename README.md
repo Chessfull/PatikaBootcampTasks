@@ -10,3 +10,4 @@
 - [_doWhilePractises_](https://github.com/Chessfull/PatikaBootcampTasks/blob/master/DoWhilePractises.cs) >> Couple practises for realising difference between 'do while' and 'while'.
 - [_holidayCostCalculatorApp_](https://github.com/Chessfull/PatikaBootcampTasks/blob/master/HolidayCostCalculationApp.cs) >> A cost calculator app with multiple options.
 - [_methodPractises_](https://github.com/Chessfull/PatikaBootcampTasks/blob/master/MethodPractises.cs) >> Void and Return Method Practises.
+- [_collectivePractises_](https://github.com/Chessfull/PatikaBootcampTasks/blob/master/MixPractises.cs) >> 18 tasks/practices that mix all the contents above.
